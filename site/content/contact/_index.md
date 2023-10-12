@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/logo.svg
+logo: img/logo.png
 contact_entries:
   - heading: Horarios que puede encontrarnos
     text: "Lun – Sáb: 9AM – 7PM Cerramos los domingos"
