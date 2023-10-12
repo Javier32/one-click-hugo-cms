@@ -11,6 +11,6 @@ Nos esforzamos por crecer y mejorar constantemente por lo cual su participación
 
 
 
-<h3 class="f4 b lh-title mb2">como puedo…?</h3>
+<h3 class="f4 b lh-title mb2">Como puede contactarse?</h3>
 
 Puede rellenar el formulario abajo por cualquier consulta relacionada a nuestros servicios de presencia online, estaremos encantados en ponernos en contacto con usted.
