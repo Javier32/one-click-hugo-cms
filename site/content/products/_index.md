@@ -4,9 +4,10 @@ type: products
 image: /img/products-jumbotron.jpg
 intro:
   heading: Que ofrecemos
-  description: "UDEV es una empresa emergente especializada en Desarrollo Web,
-    hacemos presente su negocio en internet, redes sociales, y los motores de
-    búsqueda más importantes. "
+  description: |-
+    UDEV empresa emergente especializada en desarrollo web y afines.
+
+    Hacemos realidad su negocio en los motores de búsqueda más importantes. 
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
